@@ -49,3 +49,4 @@ while True:
 # 打印所有微博内容
 for weibo in weibo_list:
     print(weibo)
+    print(1)
